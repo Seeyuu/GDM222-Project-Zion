@@ -45,6 +45,12 @@ TagManager:
   - name: bg
     uniqueID: 1271761607
     locked: 0
+  - name: foreground
+    uniqueID: 2519454401
+    locked: 0
   - name: player
     uniqueID: 1803111457
+    locked: 0
+  - name: enermy
+    uniqueID: 855486387
     locked: 0

@@ -11,6 +11,8 @@ public class PlayerController : MonoBehaviour
     public ContactFilter2D movementFilter;
     public SwordAttack swordAttack;
 
+    public Joystick joystick;
+
     Vector2 movementInput;
     SpriteRenderer spriteRenderer;
     Rigidbody2D rb;
